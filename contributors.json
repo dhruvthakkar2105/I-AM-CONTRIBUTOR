@@ -21,6 +21,17 @@
       { "name": "OSSForAll/I-AM-CONTRIBUTOR", "url": "https://github.com/OSSForAll/I-AM-CONTRIBUTOR" }
     ],
     "linkedin": "mrpunyapal"
+  },
+  {
+    "github": "dhruvthakkar2105",
+    "name": "Dhruv Thakkar",
+    "category": "Maintainer",
+    "intro": "Building communities, content & tools for the PHP & Laravel ecosystem.",
+    "techStack": ["Laravel", "PHP", "JavaScript"],
+    "openSource": [
+      { "name": "OSSForAll/I-AM-CONTRIBUTOR", "url": "https://github.com/OSSForAll/I-AM-CONTRIBUTOR" }
+    ],
+    "linkedin": "dhruvthakkar2105"
   }
 ]
 
